@@ -15,3 +15,5 @@ fields:
   label: title
   description: title-tag
   default: title
+pages:
+- posts/skärmavbild.md
